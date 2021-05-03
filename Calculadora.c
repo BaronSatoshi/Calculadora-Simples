@@ -9,7 +9,7 @@ int main()
     scanf("%d", &op);
     printf("\nDigite o primeiro numero: ");
     scanf("%f", &x);
-    printf("\nDigite o sehundo numero: ");
+    printf("\nDigite o segundo numero: ");
     scanf("%f", &y);
     switch (op)
     {
